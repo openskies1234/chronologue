@@ -41,7 +41,7 @@ Use cases are we supporting:
 | Bug reporting |How-to  |  [How-to](https://github.com/thegooddocsproject/templates/tree/dev/how-to) | Explains how to report API bugs and other issues with the Chronologue wenbsite.  | Developers  |Tina|
 | Troubleshooting Framework  |Troubleshooting   |  ? | General steps to prepare for a troubleshooting task.| Technicians  |Ricky|
 | Troubleshooting defect XYZ  |Troubleshooting   |  ? | This would go in greather depth than the general troubleshooting topic. What could we "break" that would need troubleshooting?  | Technicians  |?|
-|Glossary   | Glossary  | ?  | Explains terminology used in this project  | End users, Scientists, Technicians  |Sakura & Tina|
+|Glossary   | Glossary  | [Glossary] (https://docs.google.com/document/d/1VpkuP3kCAG454WPwYf_rXbk5fBcnK0wAryKm3yB2kiU/edit) | Explains terminology used in this project  | End users, Scientists, Technicians  |Sakura & Tina|
 | Release Notes  | Changelog   |  ? | Describes which features we introduced and why or what features we deprecated  |  Developers |Tina/ Ian|
 
 <!-- 
